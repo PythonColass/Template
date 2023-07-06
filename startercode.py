@@ -1,0 +1,2 @@
+print("Danish")
+print("Python)
