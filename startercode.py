@@ -1,2 +1,3 @@
-print("Danish")
-print("Python)
+print("Hello Danish")
+print("welcome to python class" )
+
